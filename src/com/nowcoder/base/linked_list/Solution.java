@@ -2,10 +2,15 @@ package com.nowcoder.base.linked_list;
 
 import java.util.ArrayList;
 
+/**
+ * 
+ * @author cwh
+ * 题目描述
+ * 输入一个链表，按链表值从尾到头的顺序返回一个ArrayList。
+ */
 public class Solution {
 	
 	public static void main(String[] args) {
-//		输入一个链表，按链表值从尾到头的顺序返回一个ArrayList。
 		ListNode node1 = new ListNode(1);
 		ListNode node2 = new ListNode(2);
 		ListNode node3 = new ListNode(3);
